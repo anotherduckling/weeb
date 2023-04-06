@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://wotaku.pages.dev/sitemap.xml.gz
